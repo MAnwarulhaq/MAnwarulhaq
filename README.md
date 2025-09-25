@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Anwar ul Haq  
 
 💻 A passionate **Frontend Developer** from Pakistan  
-🌱 Currently learning **React.js** and expanding my skills in the **MERN stack**  
+🌱 Currently working as a frontend in  **React.js** at HnH Soft Tech Solution ptv and expanding my skills in the **MERN stack**  
 🤝 Looking to collaborate on **Frontend Applications**  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/m-anwar-ul-haq-70b18a2a9/) | ✉️ Email: muhammadanwarulhaq15@gmail.com  
 ⚡ Fun fact: I love turning creative UI ideas into functional web applications! 🚀  
